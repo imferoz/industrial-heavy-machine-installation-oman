@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /temp/
+Sitemap: https://industrial-heavy-machine-installation-oman.alwejhagroup.com/sitemap.xml
+Crawl-delay: 5
+User-agent: GPTBot
+Disallow: /
